@@ -1,0 +1,83 @@
+.cover{
+    height: 750px;
+    width: 1500px;
+    background-image: url("https://wallpapertag.com/wallpaper/full/3/b/e/851501-gorgerous-tekken-6-devil-jin-wallpaper-1920x1080.jpg");
+    background-size: cover;
+    color: greenyellow;
+    
+    text-align: left;
+    font-size: 70px;
+}
+.intro{
+    height: 750px;
+    width: 1500px;
+    background-color: yellow;
+    background-size: cover;
+    color: crimson;
+    text-align: center;
+    text-shadow: purple 10px 10px 10px;
+    font-size: 100px;
+}
+.content{
+    height: 750px;
+    width: 1500px;
+    background-image: url("");
+    background-color: lime;
+    background-size: cover;
+    color: crimson;
+    text-align: center;
+    text-shadow: purple 10px 10px 10px;
+    font-size: 100px;
+}
+.chapter{
+    height: 3620px;
+    width: 1500px;
+    background-image: url("");
+    background-color: khaki;
+    background-size: cover;
+    color: crimson;
+    text-align: center;
+
+    font-size: 100px;
+}
+.bccover{
+    height: 750px;
+    width: 1500px;
+    background-image: url("https://pre00.deviantart.net/7d96/th/pre/i/2013/324/6/6/devil_jin___feel_the_wrath_of_the_god_by_thevampirehunter-d6uz6c3.jpg");
+    background-size: cover;
+    color: black;
+    text-align: left;
+    text-shadow: purple 10px 10px 10px;
+    font-size: 100px;
+    font-family: chiller;
+}
+#line{
+    height: 7px;
+    width: 1500px;
+    background-color: crimson;
+    margin-top: 15px;
+    color: crimson;
+    text-align: center;
+    text-shadow: purple 10px 10px 10px;
+    font-size: 100px;
+}
+.last{
+    height: 750px;
+    width: 1500px;
+    background-color: gold;
+    background-size: cover;
+    color: crimson;
+    text-align: center;
+    text-shadow: purple 10px 10px 10px;
+    font-size: 100px;
+}
+.more{
+    height: 750px;
+    width: 1500px;
+    background-color: greenyellow;
+    background-size: cover;
+    color: crimson;
+    text-align: center;
+    text-shadow: purple 10px 10px 10px;
+    font-size: 100px;
+}
